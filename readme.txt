@@ -15,3 +15,7 @@ Logout
 
 redirect
 header('location: home.php');
+
+#HW
+
+- make design
